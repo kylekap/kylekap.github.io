@@ -19,7 +19,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[mustache](https://pbs.twimg.com/profile_images/1464389628941811715/36yJVxtJ_400x400.jpg)
+![mustache](https://pbs.twimg.com/profile_images/1464389628941811715/36yJVxtJ_400x400.jpg)
 
 [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 

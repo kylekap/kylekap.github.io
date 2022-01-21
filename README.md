@@ -5,5 +5,7 @@
 
 ### This page is still under revision. Please stand by.
 
-[^kyle] Page created by Kyle Patterson
-[^mustache_image] Image provided courtesy of Carly Twigg
+[^kyle]: Page created by Kyle Patterson
+[^mustache_image]: Image provided courtesy of Carly Twigg
+
+<!--https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->

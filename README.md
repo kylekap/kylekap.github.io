@@ -1,26 +1,9 @@
-## Welcome to GitHub Pages
+# Home
+## Welcome to Kyles Github Page[^kyle]
 
-### Markdown
-```markdown
-Syntax highlighted code block
+![mustache](https://pbs.twimg.com/profile_images/1464389628941811715/36yJVxtJ_400x400.jpg) [^mustache_image]
 
-# Header 1
-## Header 2
-### Header 3
+### This page is still under revision. Please stand by.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-![mustache](https://pbs.twimg.com/profile_images/1464389628941811715/36yJVxtJ_400x400.jpg)
-
-[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[^kyle] Page created by Kyle Patterson
+[^mustache_image] Image provided courtesy of Carly Twigg
